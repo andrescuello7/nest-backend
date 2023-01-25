@@ -1,5 +1,5 @@
 export class CreateUserDTO {
-  title: string;
-  description: string;
-  checked: boolean;
+  username: string;
+  password: string;
+  email: string;
 }
